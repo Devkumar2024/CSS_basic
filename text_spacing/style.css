@@ -1,0 +1,24 @@
+*{
+    margin: 0;
+    padding: 10px;
+}
+h1{
+    text-align: center;
+    text-transform: capitalize;
+    text-decoration: underline grey;
+}
+h2{
+    text-align: right;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    font-size: italic;
+    font-weight: 500;
+}
+p{
+    text-align: left;
+    font-size: 20px;
+    letter-spacing: 5px;
+}
+#imp{
+    text-align: justify !important;
+    letter-spacing: 0px !important;
+}

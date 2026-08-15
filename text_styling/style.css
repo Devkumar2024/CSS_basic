@@ -3,8 +3,18 @@ h1{
     font-size: 40px;
     font-weight: 700;
     color: yellowgreen;
+    font-style: oblique;
 }
 
 p{
-    text-decoration: underline green wavy;
+    text-decoration: underline green dashed;
+    text-transform: uppercase;
+}
+
+ul{
+    list-style: circle;
+}
+
+.text-spacing{
+    text-align: center;
 }
