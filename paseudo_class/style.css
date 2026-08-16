@@ -1,0 +1,48 @@
+/*anchor tag not visited*/
+a{
+    text-decoration: none;
+    font-size: 24px;
+    font-weight: 600;
+}
+a:link{
+    color: blue;
+}
+
+a:visited{
+    color: red;
+}
+
+a:hover{
+    color: green;
+}
+
+a:active{
+    color: purple;
+}
+ul{
+    font-size: 20px;
+}
+
+/*
+li:first-child{
+    color: yellow;
+}
+
+li:last-child{
+    color: tomato;
+}
+*/
+
+li:nth-child(2n){
+    color: blueviolet;
+}
+
+.article p{
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    font-size: 19px;
+    color: violet;
+}
+
+h1+p{
+    color: teal !important;
+}

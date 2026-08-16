@@ -1,0 +1,25 @@
+/*
+h1 {
+  text-align: center;
+}
+p {
+  text-align: center;
+}
+a {
+  text-align: center;
+}
+
+*/
+*{
+    padding: 30px;
+    border: 2px solid salmon;
+}
+.hero{
+    text-align: center; 
+}
+/*pseudo element*/
+p::first-letter{
+    color: brown;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    font-size: 40px;
+}
