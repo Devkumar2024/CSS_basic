@@ -1,0 +1,8 @@
+div {
+  width: 500px;
+  height: 500px;
+  padding: 50px;
+  border: 10px dotted purple;
+  background-color: coral;
+  margin: 100px;
+}

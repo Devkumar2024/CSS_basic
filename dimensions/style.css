@@ -1,0 +1,17 @@
+h1 {
+  font-size: 32px;
+}
+p {
+  font-size: 18px;
+}
+.abc {
+  text-align: center;
+}
+.angular {
+  width: 400px;
+  min-height: 200px;
+  padding: 10px;
+  background-color:aquamarine ;
+  border: 5px double blue;
+  border-radius: 12px;
+}
