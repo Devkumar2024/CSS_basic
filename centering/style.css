@@ -1,0 +1,26 @@
+* {
+  padding: 0;
+  margin: 0;
+}
+.parent {
+  background-color: rgb(93, 145, 190);
+  height: 500px;
+  display: flex;
+  flex-direction: column;
+  align-items: center; 
+  justify-content: center;
+  max-height: 500px;
+}
+.child {
+    background-color: violet;
+    box-sizing: border-box;
+    height: 300px;
+    width: 300px;
+    padding: 60px 60px;
+   /* margin: 0 auto; */ 
+}
+p{
+    text-align: justify;
+    font-size: 1rem;
+    
+}
